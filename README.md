@@ -1,1 +1,1 @@
-Appendix of Info-PDF
+Appendix of InfoPDF
